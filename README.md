@@ -1,4 +1,4 @@
-# DX Trade API
+# DX Trade REST API Python
 DXtrade REST API Python
 
 Reference documentation
